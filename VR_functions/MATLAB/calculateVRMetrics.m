@@ -1,6 +1,6 @@
 % shade option= 0(no) or 1 (yes)
 
-helloaa
+
 function [vrMetrics,rejecttrials,reachstarttime] = calculateVRMetrics(vrData,environmentSettings,figureHandles,colors,ls,shadeoption)
 
 % initialize sphere radiuses
